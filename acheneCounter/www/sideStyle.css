@@ -1,0 +1,10 @@
+.col-sm-4 {
+    position: fixed;
+    width: 200px;
+    z-index: 5;
+    text-align: center;
+}
+
+img {
+  cursor: default;
+}

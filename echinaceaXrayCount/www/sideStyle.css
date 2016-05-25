@@ -1,0 +1,53 @@
+.cbglogo {
+  margin-top: 10px;
+}
+
+.the-actual-site {
+  color:#666666;
+  letter-spacing:4px;
+  text-transform:uppercase;
+  font-family:Georgia;
+  font-size:20px;
+}
+
+.the-actual-site:hover {
+  color:#000000;
+  letter-spacing:4px;
+  text-transform:uppercase;
+  font-family:Georgia;
+  font-size:20px;
+  text-decoration: none;
+}
+
+.greenbar {
+  background-color: #99CC00;
+  height: 29px;
+  width: 1180px; 
+}
+
+.col-sm-4 {
+    position: fixed;
+    width: 300px;
+    white-space: nowrap;
+    overflow: visible;
+    z-index: 5;
+}
+
+.full {
+  color: green;
+  font-weight: bold;
+}
+
+.partial {
+  color: blue;
+  font-weight: bold;
+}
+
+.empty {
+  color: red;
+  font-weight: bold;
+}
+
+img {
+  cursor: default;
+}
